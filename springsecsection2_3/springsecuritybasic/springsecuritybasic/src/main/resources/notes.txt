@@ -1,0 +1,4 @@
+* Here contains very basic security with default login page.
+* Password will be generated at runtime with default username as 'user'
+* All that has to be done is just adding security dependency.
+* With this minimal security implementation, not recommended to take that app into production
