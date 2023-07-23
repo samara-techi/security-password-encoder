@@ -1,0 +1,9 @@
+Here we are using BCryptPasswordEncoder to prevent saving passwords as plain texts. 
+BCryptPasswordEncoder is a one way hashing algorithm. 
+Below are the new user details
+
+{
+    "email" : "kavi.sales@gmail.com",
+    "password" : "KAVI.sales@godigi22",
+    "role" : "user"
+}
